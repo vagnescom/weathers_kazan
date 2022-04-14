@@ -1,8 +1,7 @@
 # Тестровое задание Сафиуллин Айдар
 
-### Склонируйте репозиторий:
-* Запустите команду в терминале: 
-*git clone https://github.com/Aisafa/testSafiullin.git*
+* Склонируйте репозиторий запустив команду в терминале: 
+> git clone https://github.com/Aisafa/testSafiullin.git
 * Откройте проект tsts в среде разработки
 * Откройте файл **test_get_weather.py** (Находится в папке tests)
 * Для того чтобы тест **test_weather_for_5day** запстился
